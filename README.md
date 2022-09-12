@@ -11,3 +11,4 @@ Un Commit tiene:
 ## Agregado
 esto esta agregado
 ## Agregar Commits desde local a Remoto
+- agrega info al remoto 
